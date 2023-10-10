@@ -1,0 +1,213 @@
+Most Important Question That you will encounter during the your interview In React Native Profile
+
++++++++++++++++++++++++++++++javascript++++++++++++++++++++++++++++++++++++++++++
+
+Difference and uses between var, let, const
+
+Difference between the Spread operator and rest operator in javascript
+
+what is Some method in javascript
+
+Difference between the Shallow copy and deep copy in javascript
+
+what is Object Destructuring
+
+what is authorization and authentication 
+
+Difference between the Arrow Functions vs normal function
+
+what is Generators functions in javascript
+
+Higher Order Functions in javascript
+
+First Class Function/Citizens
+
+Promises all methods in javascript like All, Every, some
+
+Use of == and === in javascript
+
+Explain the concept Event loop in javascript in brief 
+
+What is hosting in javascript explain with proper example
+
+What is Debouncing and why we use in react native 
+
+Splits , Join , Spilce Vs Slice
+
+what is Currying in javascript, why we use in react native
+
+Explain map, reduce , filters in javascript
+
+What is Coercion in javascript explain with the example 
+
+what is Passed by value ,passed by reference in javascript
+
+Explain Call,apply,bind methods in javascript
+
+what is Global, local,block scope in javascript
+
+Explain the Closures functionality in javascript
+
+what is Callback function and why it is important in development
+
+what Compiling and transpiling in javascript
+
+what are Pure & Impure functions in javascript
+
+what is Asynch and await and why we use it 
+
+Classical Inheritance vs prototypal Inheritance in javascript
+
+Difference between NaN and undefined and Null
+
+Difference between PixelRatio and aspectRation and Null
+
+Latest javascript version features 
+
+what is IIFE functions In javascript
+
+++++++++++++++++++++++++++++++++++++React Native interview Question ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+what is the Difference between react native react js 
+
+React Native Latest Architecture why it is use full what are different components in it
+
+what is fabric in React Native 
+
+explain CodeGen In React native
+
+How react native Works in previous Architecture
+
+explain Bridging concept in react native
+
+why we choose react native over the native app like Java/kotlin/swift
+
+what are different project Architecture in react native like clean, MVVM,MVC, DDD, components based Architecture
+
+life cycle methods of class components and functional components
+
+What is the use of shouldComponentUpdate 
+
+why we use setState to update the state rather then using the this.setState
+
+Difference between functional and class components
+
+what is Dom how does it works in react Native 
+
+what is diffing algorithm in react native
+
+What is redux and redux toolkit 
+
+ScrollView vs flatlist in react native
+
+Why we use the key extractor in flatlist in react native
+
+how to achieve the indexing in react native
+
+what are Generators function and where we use in react native
+
+what is middleware explain thunk and saga
+
+what to choose thunk or saga which is better for project development
+
+how to implements the pagination in react native
+
+what is dependency and devdependency in react native
+
+AppRegistory in React Native
+
+Explain Deep linking and differed deep linking 
+
+what are pureComponent and pure components in react native
+
+Side-effects of Redux in project development
+
+Difference between Virtual dom, Real Dom
+
+explain All React Hooks why we use in project
+
+why we use forceUpdate method in React native
+
+Callback vs UseMemo 
+
+What is React Memo and UseMemo and why we use this hooks in react native
+
+What is Hermes engine in React Native
+
+What is YOGA and CORS in React Native 
+
+Why we use Babel in javascript
+
+Difference between UseSelector and useReducers
+
+what is Fragment in react native
+
+Difference between VirtualizeList and Flatlist
+
+Tells the React Navigation v5 all important libraries 
+
+Live reloading and hot reloading in React Native
+
+How to maintained the signed apk version in react native
+
+Explain the Redux life cycle
+
+why we use middleware in redux
+
+Absolute vs relatives position in CSS
+
+How to optimize the code in react native 
+
+how to perform the Debugging in React Native and what are different tools that are available in for Debugging
+
+how to build the custom Native module in react native
+
+what is Interaction manager and Animations in React Native
+
+what is local notifications and remote notifications
+
+what are different Unit testing in react native
+
+What are the Core components in React Native
+
+Difference screen size pixel ratio, aspect ratio
+
+Difference between axios and fecth and pull  
+
+how to handle the ForeGround and BackGround notifications 
+
+How to optimize the react native apk bundle size
+
+how to perform the Lazy loading and Dynamic importing in React Native
+
+How to secure the react native app with different techniques  
+
+what are Differences in Context Api and Redux
+
+Difference between takeEvery and takeLatest
+
+Difference between framework and library
+
+Difference between React Elements and react component 
+
+what is use of ForewardRef and BackwardRef
+
+What is AppCenter and CodePush 
+
+how to handle to local database in react native
+
+how to migrate the react native app in latest version 
+
+How to deploy the app on play store and AppStore
+
+how to handle multiple version of apk in on playstore 
+
+How to implements the pushNotification in react Native
+
+What is Android Profile, ESlint, Sonar 
+
+Firebase analytics and Firebase crashlytics and event handling in react native 
+
+
+
+
